@@ -306,7 +306,7 @@ body {
       margin-top: 12px;
     }
     .ag-timeline-card_desc p{
-        text-align: left;
+        text-align: left!important;
     }
   }
   
