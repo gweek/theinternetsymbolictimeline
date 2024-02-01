@@ -256,8 +256,8 @@ body {
     font-size: 16px;
     color: #FFF;
   }
-  .ag-timeline-card_desc p{
-    text-align: left!important;
+  .ag-timeline-card_desc p, .ag-timeline-card_desc ul li, .ag-timeline-card_desc h3{
+    text-align: left;
   }
   
   
